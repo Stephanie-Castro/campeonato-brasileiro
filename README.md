@@ -1,5 +1,5 @@
 # campeonato-brasileiro
-Cancel Changes
+<br /><br />
 Projeto para aprender VUE (estrutura/organização, funções, chamadas de API, ...)
 <br /><br /><br /><br /><br />
 
