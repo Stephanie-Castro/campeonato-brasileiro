@@ -1,6 +1,11 @@
 # campeonato-brasileiro
 
 Projeto para aprender VUE (estrutura/organização, funções, chamadas de API, ...)
+
+
+
+
+
 ```
 Hello World!
 ```
